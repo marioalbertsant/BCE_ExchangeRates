@@ -1,4 +1,4 @@
-name: Atualizar Cambios Diário
+name: Atualizar Cambios Diário PowerApps
 
 on:
   schedule:
@@ -13,16 +13,21 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Obter dados da Frankfurter API
+      - name: Obter e processar dados para Power Apps
         run: |
-          curl -s https://api.frankfurter.dev/v1/latest -o latest.json
+          # Obter JSON original
+          curl -s https://api.frankfurter.dev/v1/latest -o latest_raw.json
+          
+          # Criar JSON simplificado
+          jq '[.rates | to_entries[] | {Moeda: .key, Taxa: .value}]' latest_raw.json > latest.json
 
       - name: Commit e Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add latest.json
-          git commit -m "Atualizar câmbios automaticamente [ci skip]" || echo "Sem alterações"
+          git commit -m "Atualizar câmbios Power Apps [ci skip]" || echo "Sem alterações"
           git pull --rebase https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
 
