@@ -24,4 +24,3 @@ jobs:
           git add latest.json
           git commit -m "Atualizar câmbios automaticamente [ci skip]" || echo "Sem alterações"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-
