@@ -1,1 +1,122 @@
-{"amount":1.0,"base":"EUR","date":"2025-10-21","rates":{"AUD":1.7885,"BGN":1.9558,"BRL":6.2526,"CAD":1.6301,"CHF":0.923,"CNY":8.2626,"CZK":24.314,"DKK":7.4691,"GBP":0.8678,"HKD":9.0204,"HUF":389.63,"IDR":19273,"ILS":3.8174,"INR":102.11,"ISK":141.6,"JPY":176.45,"KRW":1660.38,"MXN":21.401,"MYR":4.9086,"NOK":11.6693,"NZD":2.0287,"PHP":67.761,"PLN":4.2393,"RON":5.0838,"SEK":10.9345,"SGD":1.5061,"THB":38.071,"TRY":48.711,"USD":1.1607,"ZAR":20.115}}
+[
+  {
+    "Moeda": "AUD",
+    "Taxa": 1.7885
+  },
+  {
+    "Moeda": "BGN",
+    "Taxa": 1.9558
+  },
+  {
+    "Moeda": "BRL",
+    "Taxa": 6.2526
+  },
+  {
+    "Moeda": "CAD",
+    "Taxa": 1.6301
+  },
+  {
+    "Moeda": "CHF",
+    "Taxa": 0.923
+  },
+  {
+    "Moeda": "CNY",
+    "Taxa": 8.2626
+  },
+  {
+    "Moeda": "CZK",
+    "Taxa": 24.314
+  },
+  {
+    "Moeda": "DKK",
+    "Taxa": 7.4691
+  },
+  {
+    "Moeda": "GBP",
+    "Taxa": 0.8678
+  },
+  {
+    "Moeda": "HKD",
+    "Taxa": 9.0204
+  },
+  {
+    "Moeda": "HUF",
+    "Taxa": 389.63
+  },
+  {
+    "Moeda": "IDR",
+    "Taxa": 19273
+  },
+  {
+    "Moeda": "ILS",
+    "Taxa": 3.8174
+  },
+  {
+    "Moeda": "INR",
+    "Taxa": 102.11
+  },
+  {
+    "Moeda": "ISK",
+    "Taxa": 141.6
+  },
+  {
+    "Moeda": "JPY",
+    "Taxa": 176.45
+  },
+  {
+    "Moeda": "KRW",
+    "Taxa": 1660.38
+  },
+  {
+    "Moeda": "MXN",
+    "Taxa": 21.401
+  },
+  {
+    "Moeda": "MYR",
+    "Taxa": 4.9086
+  },
+  {
+    "Moeda": "NOK",
+    "Taxa": 11.6693
+  },
+  {
+    "Moeda": "NZD",
+    "Taxa": 2.0287
+  },
+  {
+    "Moeda": "PHP",
+    "Taxa": 67.761
+  },
+  {
+    "Moeda": "PLN",
+    "Taxa": 4.2393
+  },
+  {
+    "Moeda": "RON",
+    "Taxa": 5.0838
+  },
+  {
+    "Moeda": "SEK",
+    "Taxa": 10.9345
+  },
+  {
+    "Moeda": "SGD",
+    "Taxa": 1.5061
+  },
+  {
+    "Moeda": "THB",
+    "Taxa": 38.071
+  },
+  {
+    "Moeda": "TRY",
+    "Taxa": 48.711
+  },
+  {
+    "Moeda": "USD",
+    "Taxa": 1.1607
+  },
+  {
+    "Moeda": "ZAR",
+    "Taxa": 20.115
+  }
+]
