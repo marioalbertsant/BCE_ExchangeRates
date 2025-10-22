@@ -2,7 +2,7 @@ name: Atualizar Cambios Diário
 
 on:
   schedule:
-    - cron: '0 7 * * *'  # Executa todos os dias às 09:00 UTC
+    - cron: '0 7 * * *'  # Executa todos os dias às 07:00 UTC
   workflow_dispatch:      # Permite executar manualmente
 
 jobs:
