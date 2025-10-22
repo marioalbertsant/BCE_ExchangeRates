@@ -19,8 +19,8 @@ jobs:
 
       - name: Commit e Push
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add latest.json
-          git commit -m "Atualizar câmbios automaticamente [ci skip]" || echo "Sem alterações"
-          git push
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add latest.json
+            git commit -m "Atualizar câmbios automaticamente [ci skip]" || echo "Sem alterações"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
