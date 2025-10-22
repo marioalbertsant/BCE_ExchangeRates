@@ -1,0 +1,22 @@
+name: Read latest.json
+
+on:
+  repository_dispatch:
+    types: [read-latest-json]
+
+jobs:
+  read-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Read latest.json
+        run: |
+          cat latest.json > output.txt
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: latest-json-content
+          path: output.txt
