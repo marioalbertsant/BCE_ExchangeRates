@@ -1,0 +1,26 @@
+name: Atualizar Cambios Diário
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Executa todos os dias às 09:00 UTC
+  workflow_dispatch:      # Permite executar manualmente
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Obter dados da Frankfurter API
+        run: |
+          curl -s https://api.frankfurter.dev/v1/latest -o latest.json
+
+      - name: Commit e Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add latest.json
+          git commit -m "Atualizar câmbios automaticamente [ci skip]" || echo "Sem alterações"
+          git push
