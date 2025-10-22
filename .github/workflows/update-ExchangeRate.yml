@@ -20,6 +20,7 @@ jobs:
           
           # Criar JSON simplificado
           jq '[.rates | to_entries[] | {Moeda: .key, Taxa: .value}]' latest_raw.json > latest.json
+          jq '[.rates | to_entries[] | {Moeda: .key, Taxa: .value}]' latest_raw.json > latest.txt
 
       - name: Commit e Push
         run: |
