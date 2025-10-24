@@ -1,7 +1,7 @@
 [
   {
     "Moeda": "AUD",
-    "Taxa": 1.7864
+    "Taxa": 1.7825
   },
   {
     "Moeda": "BGN",
@@ -9,19 +9,19 @@
   },
   {
     "Moeda": "BRL",
-    "Taxa": 6.2411
+    "Taxa": 6.2434
   },
   {
     "Moeda": "CAD",
-    "Taxa": 1.6254
+    "Taxa": 1.6221
   },
   {
     "Moeda": "CHF",
-    "Taxa": 0.9228
+    "Taxa": 0.9249
   },
   {
     "Moeda": "CNY",
-    "Taxa": 8.2576
+    "Taxa": 8.2593
   },
   {
     "Moeda": "CZK",
@@ -33,90 +33,90 @@
   },
   {
     "Moeda": "GBP",
-    "Taxa": 0.8689
+    "Taxa": 0.8691
   },
   {
     "Moeda": "HKD",
-    "Taxa": 9.0044
+    "Taxa": 9.0092
   },
   {
     "Moeda": "HUF",
-    "Taxa": 389.39
+    "Taxa": 389.99
   },
   {
     "Moeda": "IDR",
-    "Taxa": 19256
+    "Taxa": 19273
   },
   {
     "Moeda": "ILS",
-    "Taxa": 3.83
+    "Taxa": 3.8361
   },
   {
     "Moeda": "INR",
-    "Taxa": 102.45
+    "Taxa": 101.81
   },
   {
     "Moeda": "ISK",
-    "Taxa": 141.8
+    "Taxa": 142.2
   },
   {
     "Moeda": "JPY",
-    "Taxa": 175.92
+    "Taxa": 176.94
   },
   {
     "Moeda": "KRW",
-    "Taxa": 1660.02
+    "Taxa": 1669.89
   },
   {
     "Moeda": "MXN",
-    "Taxa": 21.324
+    "Taxa": 21.354
   },
   {
     "Moeda": "MYR",
-    "Taxa": 4.8813
+    "Taxa": 4.9027
   },
   {
     "Moeda": "NOK",
-    "Taxa": 11.643
+    "Taxa": 11.8529
   },
   {
     "Moeda": "NZD",
-    "Taxa": 2.0185
+    "Taxa": 2.0184
   },
   {
     "Moeda": "PHP",
-    "Taxa": 67.477
+    "Taxa": 67.96
   },
   {
     "Moeda": "PLN",
-    "Taxa": 4.2312
+    "Taxa": 4.2327
   },
   {
     "Moeda": "RON",
-    "Taxa": 5.0831
+    "Taxa": 5.0823
   },
   {
     "Moeda": "SEK",
-    "Taxa": 10.916
+    "Taxa": 10.9193
   },
   {
     "Moeda": "SGD",
-    "Taxa": 1.5052
+    "Taxa": 1.5066
   },
   {
     "Moeda": "THB",
-    "Taxa": 38.107
+    "Taxa": 38.029
   },
   {
     "Moeda": "TRY",
-    "Taxa": 48.675
+    "Taxa": 48.788
   },
   {
     "Moeda": "USD",
-    "Taxa": 1.1587
+    "Taxa": 1.1593
   },
   {
     "Moeda": "ZAR",
-    "Taxa": 20.231
+    "Taxa": 20.112
   }
 ]
