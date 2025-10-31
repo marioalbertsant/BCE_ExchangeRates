@@ -1,7 +1,7 @@
 [
   {
     "Moeda": "AUD",
-    "Taxa": 1.7631
+    "Taxa": 1.7672
   },
   {
     "Moeda": "BGN",
@@ -9,114 +9,114 @@
   },
   {
     "Moeda": "BRL",
-    "Taxa": 6.222
+    "Taxa": 6.2288
   },
   {
     "Moeda": "CAD",
-    "Taxa": 1.6207
+    "Taxa": 1.6179
   },
   {
     "Moeda": "CHF",
-    "Taxa": 0.9278
+    "Taxa": 0.9281
   },
   {
     "Moeda": "CNY",
-    "Taxa": 8.2609
+    "Taxa": 8.217
   },
   {
     "Moeda": "CZK",
-    "Taxa": 24.338
+    "Taxa": 24.378
   },
   {
     "Moeda": "DKK",
-    "Taxa": 7.4684
+    "Taxa": 7.4679
   },
   {
     "Moeda": "GBP",
-    "Taxa": 0.8807
+    "Taxa": 0.8801
   },
   {
     "Moeda": "HKD",
-    "Taxa": 9.0422
+    "Taxa": 8.9724
   },
   {
     "Moeda": "HUF",
-    "Taxa": 388.23
+    "Taxa": 388.95
   },
   {
     "Moeda": "IDR",
-    "Taxa": 19272
+    "Taxa": 19249
   },
   {
     "Moeda": "ILS",
-    "Taxa": 3.7712
+    "Taxa": 3.7611
   },
   {
     "Moeda": "INR",
-    "Taxa": 102.67
+    "Taxa": 102.47
   },
   {
     "Moeda": "ISK",
-    "Taxa": 143.3
+    "Taxa": 144.0
   },
   {
     "Moeda": "JPY",
-    "Taxa": 177.07
+    "Taxa": 178.37
   },
   {
     "Moeda": "KRW",
-    "Taxa": 1655.74
+    "Taxa": 1657.41
   },
   {
     "Moeda": "MXN",
-    "Taxa": 21.463
+    "Taxa": 21.482
   },
   {
     "Moeda": "MYR",
-    "Taxa": 4.8737
+    "Taxa": 4.851
   },
   {
     "Moeda": "NOK",
-    "Taxa": 11.6385
+    "Taxa": 11.6648
   },
   {
     "Moeda": "NZD",
-    "Taxa": 2.0119
+    "Taxa": 2.0164
   },
   {
     "Moeda": "PHP",
-    "Taxa": 68.316
+    "Taxa": 68.081
   },
   {
     "Moeda": "PLN",
-    "Taxa": 4.2418
+    "Taxa": 4.245
   },
   {
     "Moeda": "RON",
-    "Taxa": 5.0841
+    "Taxa": 5.0855
   },
   {
     "Moeda": "SEK",
-    "Taxa": 10.896
+    "Taxa": 10.94
   },
   {
     "Moeda": "SGD",
-    "Taxa": 1.5062
+    "Taxa": 1.5047
   },
   {
     "Moeda": "THB",
-    "Taxa": 37.578
+    "Taxa": 37.503
   },
   {
     "Moeda": "TRY",
-    "Taxa": 48.808
+    "Taxa": 48.496
   },
   {
     "Moeda": "USD",
-    "Taxa": 1.1636
+    "Taxa": 1.155
   },
   {
     "Moeda": "ZAR",
-    "Taxa": 19.9043
+    "Taxa": 20.042
   }
 ]
