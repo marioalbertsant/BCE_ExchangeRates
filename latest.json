@@ -1,7 +1,7 @@
 [
   {
     "Moeda": "AUD",
-    "Taxa": 1.7696
+    "Taxa": 1.7722
   },
   {
     "Moeda": "BGN",
@@ -9,51 +9,51 @@
   },
   {
     "Moeda": "BRL",
-    "Taxa": 6.0993
+    "Taxa": 6.1383
   },
   {
     "Moeda": "CAD",
-    "Taxa": 1.6216
+    "Taxa": 1.6272
   },
   {
     "Moeda": "CHF",
-    "Taxa": 0.925
+    "Taxa": 0.9244
   },
   {
     "Moeda": "CNY",
-    "Taxa": 8.2381
+    "Taxa": 8.245
   },
   {
     "Moeda": "CZK",
-    "Taxa": 24.229
+    "Taxa": 24.191
   },
   {
     "Moeda": "DKK",
-    "Taxa": 7.4671
+    "Taxa": 7.4677
   },
   {
     "Moeda": "GBP",
-    "Taxa": 0.8823
+    "Taxa": 0.8819
   },
   {
     "Moeda": "HKD",
-    "Taxa": 8.9958
+    "Taxa": 9.0288
   },
   {
     "Moeda": "HUF",
-    "Taxa": 385.05
+    "Taxa": 384.0
   },
   {
     "Moeda": "IDR",
-    "Taxa": 19402
+    "Taxa": 19417
   },
   {
     "Moeda": "ILS",
-    "Taxa": 3.7008
+    "Taxa": 3.731
   },
   {
     "Moeda": "INR",
-    "Taxa": 102.57
+    "Taxa": 103.05
   },
   {
     "Moeda": "ISK",
@@ -61,31 +61,31 @@
   },
   {
     "Moeda": "JPY",
-    "Taxa": 179.19
+    "Taxa": 179.57
   },
   {
     "Moeda": "KRW",
-    "Taxa": 1696.9
+    "Taxa": 1700.42
   },
   {
     "Moeda": "MXN",
-    "Taxa": 21.163
+    "Taxa": 21.225
   },
   {
     "Moeda": "MYR",
-    "Taxa": 4.7884
+    "Taxa": 4.7975
   },
   {
     "Moeda": "NOK",
-    "Taxa": 11.6495
+    "Taxa": 11.674
   },
   {
     "Moeda": "NZD",
-    "Taxa": 2.0432
+    "Taxa": 2.0507
   },
   {
     "Moeda": "PHP",
-    "Taxa": 68.476
+    "Taxa": 68.418
   },
   {
     "Moeda": "PLN",
@@ -97,26 +97,26 @@
   },
   {
     "Moeda": "SEK",
-    "Taxa": 10.9395
+    "Taxa": 10.9405
   },
   {
     "Moeda": "SGD",
-    "Taxa": 1.5081
+    "Taxa": 1.5109
   },
   {
     "Moeda": "THB",
-    "Taxa": 37.57
+    "Taxa": 37.541
   },
   {
     "Moeda": "TRY",
-    "Taxa": 48.902
+    "Taxa": 49.095
   },
   {
     "Moeda": "USD",
-    "Taxa": 1.1576
+    "Taxa": 1.1619
   },
   {
     "Moeda": "ZAR",
-    "Taxa": 19.7327
+    "Taxa": 19.7556
   }
 ]
